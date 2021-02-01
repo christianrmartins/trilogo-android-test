@@ -1,8 +1,8 @@
-## Desafio Android
+# Desafio Android
 
-# Esse repositório contém todo o material necessário para realizar o teste:
+### Esse repositório contém todo o material necessário para realizar o teste:
 
-# DESAFIO:
+## DESAFIO:
 Listar os filmes em cartaz no cinema utilizando a API TheMovieDb e exibir os detalhes do filme em questão.
 
 Informações: 
@@ -12,11 +12,11 @@ Informações:
 •	Ficará a seu critério definir quais elementos irá mostrar e como mostrar;
 •	Para obter a url da imagem do filme https://image.tmdb.org/t/p/w500/{caminho retornado no objeto do filme}.
 
-# Obrigatórios:
+## Obrigatórios:
 •	Java ou Kotlin;
 •	O app deve funcionar a partir do android (5.0 – API 21);
 
-# Diferenciais
+## Diferenciais
 •	Clean Architecture;
 •	MVVM;
 •	RxJava;
@@ -25,11 +25,11 @@ Informações:
 •	Room database;
 •	Testes unitários;
 
-# Observações gerais
+## Observações gerais
 •	Publicar projeto em um repositório aberto github para análise;
 •	Importante: O prazo de entrega é de dez dias depois do recebimento do e-mail;
 •	Interpretar as regras faz parte do desafio;
 •	Não serão tiradas dúvidas sobre o desafio;
 •	Ao termino do desafio mande um e-mail com a url do projeto no github para christian.martins@trilogo.com.br
 
-# BOA SORTE!
+## BOA SORTE!
