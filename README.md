@@ -34,7 +34,7 @@ Listar os filmes em cartaz no cinema utilizando a API TheMovieDb e exibir os det
 ## Observações gerais
 <ul>
   <li>Publicar projeto em um repositório aberto github para análise;</li>
-  <li>Importante: O prazo de entrega é de dez dias depois do recebimento do e-mail;</li>
+  <li>Importante: O prazo de entrega é de duas semanas depois do recebimento do e-mail;</li>
   <li>Interpretar as regras faz parte do desafio;</li>
   <li>Não serão tiradas dúvidas sobre o desafio;</li>
   <li>Ao termino do desafio mande um e-mail com a url do projeto no github para christian.martins@trilogo.com.br</li>
